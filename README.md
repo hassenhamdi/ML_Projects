@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/hassenhamdi/ML_Project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fneural-network%2F&psig=AOvVaw3nj1d8uNXrRUOjwN3aFCWm&ust=1699810891344000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOio5ZS_vIIDFQAAAAAdAAAAABAF" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ML projects Repoitory</h3>
