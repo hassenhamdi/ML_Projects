@@ -10,7 +10,7 @@
     Dive Deep Learning about AI cutting edge technologies!
     <br/>
     <br/>
-    <a href="https://github.com/hassenhamdi/ML_Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hassenhamdi/ML_Projects"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   </p>
