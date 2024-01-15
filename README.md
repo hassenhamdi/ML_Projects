@@ -28,7 +28,7 @@ This repository is newly made for the purpose to showcase and demonstrate my ML 
 
 ## Built With
 
-Fully using python , and tensorflow cuda library .
+Using python , jupyter notebooks, pytorch and tensorflow cuda library .
 
 ## License
 
