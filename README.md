@@ -31,6 +31,7 @@ This repository is newly made for the purpose to showcase and demonstrate my ML 
 Using python , jupyter notebooks, pytorch and tensorflow cuda library .
 ## Included notebooks
 Building Deep Convolutional Generative adversarial network with pytorch.
+<br/>
 Hand written digit image classification using ConvNet with tensorflow .
 
 ## License
