@@ -24,7 +24,7 @@
 ![image](https://github.com/hassenhamdi/ML_Projects/assets/74272600/2106a89c-2c14-45d2-ab7e-f989b83ffdd3)
 
 
-This repository is newly made for the purpose to showcase and demonstrate my ML project , I will be maintaining it,insh'Allah ,with interesting projects and demo for all different AI domains and applications and some comprehensive notebooks . 
+This repository is newly made for the purpose to showcase and demonstrate my ML projects , I will be maintaining it,insh'Allah ,with interesting projects and demo for all different AI domains and applications and some comprehensive notebooks . 
 
 ## Built With
 
