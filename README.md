@@ -4,7 +4,7 @@
     <img src="logo.png" alt="Logo" width="128" height="128">
   </a>
 
-  <h3 align="center">ML projects Repoitory</h3>
+  <h3 align="center">ML projects Repository</h3>
 
   <p align="center">
     Dive Deep Learning about AI cutting edge technologies!
